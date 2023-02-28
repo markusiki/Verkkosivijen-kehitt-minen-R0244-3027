@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./images/lofootit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    border-radius: 20px;
+    border: 1px solid;
+    margin: 2rem;
+}
+
+p {
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+#vuori {
+    color: yellow;
+    font-weight: bold;
+
+}
+
+#edistyminen {
+    background-color: transparent ; 
+    color: yellow;
+}
+
+#header {
+    text-align: center;
+    background-color: green;
+}
+
+#nav {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+#section {
+    background-color: blueviolet;
+    float: left;
+    width: 40%;
+    display: table;
+    
+}
+
+#article {
+    background-color: brown;
+    padding: 10px;
+}
